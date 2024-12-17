@@ -16,10 +16,9 @@
 
 - **Programming Language**: Python
 - **Framework**: Django
-- **Database**: PostgreSQL
+- **Database**: H2
 - **Frontend**: HTML, CSS, JavaScript
-- **Version Control**: Git
-
+- 
 ---
 
 ## 🔧 Installation and Usage
@@ -63,7 +62,7 @@
    - Dynamic rendering using Django templates.
 
 5. **Database Management**
-   - Efficient data storage and retrieval using PostgreSQL.
+   - Efficient data storage and retrieval using H2.
    - Database schema designed with scalability and performance in mind.
 
 ### 🎓 Learning Outcomes
