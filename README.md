@@ -18,7 +18,7 @@
 - **Framework**: Django
 - **Database**: H2
 - **Frontend**: HTML, CSS, JavaScript
-- 
+
 ---
 
 ## 🔧 Installation and Usage
