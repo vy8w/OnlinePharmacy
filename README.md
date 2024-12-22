@@ -49,19 +49,11 @@
    - Search for medicines by categories and filters.
    - Detailed product pages with essential information.
 
-2. **Cart and Order Management**
-   - Add and manage items in a personal shopping cart.
-   - Features for creating, viewing, and canceling orders.
-
-3. **User Authentication and Authorization**
-   - Secure login, logout, and user registration system.
-   - Role-based access control for admins and general users.
-
-4. **Frontend Development**
+2. **Frontend Development**
    - Responsive UI designed with HTML, CSS, and JavaScript.
    - Dynamic rendering using Django templates.
 
-5. **Database Management**
+3. **Database Management**
    - Efficient data storage and retrieval using H2.
    - Database schema designed with scalability and performance in mind.
 
